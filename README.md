@@ -117,7 +117,7 @@ A backend application structured around restaurant operations, including menu ma
 
 **Engineering focus:** Layered backend architecture, REST API design, relational data persistence, and separation of concerns.
 
-*Repository link to be added.*
+[Restaurant-Management-API](https://github.com/Kikanmened/Restaurant-Management-API)
 
 ### 6. Movie Diary — Collaborative WBS Project
 
