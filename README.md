@@ -41,7 +41,7 @@ A personal finance management application developed to practice structured backe
 
 **Engineering focus:** Separation of concerns, data persistence, application logic, and maintainable C# code.
 
-[View Budget Tracker Api](https://github.com/Kikanmened/Budget_Tracker_Api)*
+[View Budget Tracker Api](https://github.com/Kikanmened/Budget_Tracker_Api)
 
 ### 2. ChallengeTracker — Collaborative Project (Ongoing)
 
